@@ -1,0 +1,10 @@
+{ "circle_radius_factor": 2,
+  "randomstate": 40,
+  "trainingset": 75,
+  "max_depth": 2,
+  "min_samples_leaf": 2,
+  "min_samples_split": 2,
+  "which_cost_fct": "Gini",
+  "do_upsamplin": false,
+  "ccp_alpha": 0
+}

@@ -1,0 +1,17 @@
+{ "dir_to" : "C:/Users/dudkin/Documents/Projects/inAlco_ExplainableAI/bapcs_code/Speedinvest2/results_OneDrive/",
+  "dir_data" : "C:/Users/dudkin/Documents/Projects/inAlco_ExplainableAI/6_Data - Copy/SIH/FC_data_for leadership_matching_anonymized.xlsx",
+  "save_to_folder": "231128_FC_data_leadership_2features",
+  "excel_sheet_name" : "Table_SCCH",
+  "which_feature_set" : ["Activity Level", "Assertiveness"],
+  "ylabel" : "Leadership match YES (1) / NO (0)",
+  "person_id_label" : "Index",
+  "header_column_in_row" : 2,
+  "which_feature_setXX" : ["Activity Level", "Orientation on Norms"] ,
+  "which_feature_setXX" : ["Activity Level", "Assertiveness"],
+  "which_feature_setXX" : ["Activity Level", "Decisiveness"],
+  "which_feature_setXX" : ["Activity Level", "Sociability"],
+  "which_feature_setXX" : ["Activity Level", "Trust"],
+  "which_feature_setXX" : ["Activity Level", "Willingness to Compromise"],
+  "which_feature_setXX" : ["Activity Level", "Emotionality"],
+  "which_feature_setXX" : ["Activity Level", "Intellectual Curiosity"]
+}

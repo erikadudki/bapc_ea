@@ -1,0 +1,8 @@
+{ "dir_to" : "C:/Users/dudkin/Documents/Projects/inAlco_ExplainableAI/bapcs_code/Speedinvest2/results_OneDrive/",
+  "dir_data" : "C:/Users/dudkin/Documents/Projects/inAlco_ExplainableAI/bapcs_code/Speedinvest2/results_OneDrive/230926_simulated_data32/simulated_data32_2feat_3classes.xlsx",
+  "save_to_folder": "230926_simulated_data32",
+  "name_to_save" : "simulated_data32",
+  "which_feature_set" : ["feat1", "feat2"],
+  "ylabel" : "Expert Opinion (Overall Performance)",
+  "person_id_label" : "Company ID"
+}
