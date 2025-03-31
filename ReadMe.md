@@ -1,7 +1,7 @@
 # How to run Error Amplification
-## Tidy code is in: 
+## Scripts are located in: 
 ````commandline
-./base_mode/Algorithms_Dez2023/.
+./scripts_bapc_ea/.
 ````
 
 ## Installation python packages
