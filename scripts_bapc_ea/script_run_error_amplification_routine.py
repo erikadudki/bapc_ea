@@ -1,5 +1,4 @@
-#from base_model.error_amplification_hdtree import *
-from base_model.Algorithms_Dez2023.error_amplification_hdtree import *
+from scripts_bapc_ea.error_amplification_hdtree import *
 
 # Read Simulation Data.
 # json_dir = 'base_model/read_simulated_data.json'

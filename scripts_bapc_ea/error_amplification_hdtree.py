@@ -1,4 +1,4 @@
-from base_model.Algorithms_Dez2023.helper_functions import *
+from scripts_bapc_ea.helper_functions import *
 
 
 def run_error_amplification_routine(json_data_dir,

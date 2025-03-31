@@ -1,4 +1,4 @@
-from base_model.Algorithms_Dez2023.helper_functions import *
+from scripts_bapc_ea.helper_functions import *
 
 # Call this function (rountine_get_person_id_to_datapoint_oi) to
 # find the person_ID, which corresponds to a given
